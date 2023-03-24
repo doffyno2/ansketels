@@ -1,6 +1,6 @@
-baseURL = 'https://ansketel.pages.dev/'
+baseURL = 'https://ansketels.pages.dev/'
 languageCode = 'en-us'
-title = 'ansketel'
+title = 'ansketels'
 theme = 'PaperMod'
 paginate = "10"
 
